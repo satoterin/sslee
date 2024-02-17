@@ -8,8 +8,8 @@ export const main = {
     "phone": "+65 9137 5025",
     "quote": "The universe is a pretty big place. If it's just us.",
     "address": "Blk 329 Bukit Batok Street 33, Singapore 650329",
-    "website": "https://sweesionglee.vercel.app",
-    "resumedownload": "https://drive.google.com/file/d/1RIuFzXUKVOAWHsD7RVGIuLdem5NJ1Gpi/view?usp=sharing",
+    "website": "https://sslee.vercel.app",
+    "resumedownload": "https://drive.google.com/file/d/1tnijTNt8BFMO2jFzOx4kLUWYyamhkYRi/view?usp=sharing",
     "social": [
         {
             "name": "linkedin",
@@ -50,7 +50,7 @@ export const about = {
     "years": 7,
     "image": "img/profile.jpeg",
     // "video": "https://www.youtube.com/watch?v=ghQd1PbzVaY",
-    "resumedownload": "https://drive.google.com/file/d/1RIuFzXUKVOAWHsD7RVGIuLdem5NJ1Gpi/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1tnijTNt8BFMO2jFzOx4kLUWYyamhkYRi/view?usp=sharing",
 }
 
 export const works = [
