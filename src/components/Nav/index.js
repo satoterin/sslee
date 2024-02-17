@@ -7,7 +7,7 @@ function Nav({ name, phone, email, social, resumedownload }) {
             <nav className="navbar navbar-desctop">
                 <div className="position-relative w-100">
 
-                    <a className="navbar-brand" href="#home">{name?.split(' ')[0]} {name?.split(' ')[1][0]}.</a>
+                    <a className="navbar-brand" href="#home">{name}</a>
                     <div className="container d-block">
                         <a className="phone  my-0 d-none d-md-block" href={`tel: ${phone}`}>{phone}</a>
                         <a className="email  my-0 d-none d-md-block" href={`mailto: ${phone}`}>{email}</a>
