@@ -1,19 +1,19 @@
 export const main = {
-    "name": "Arnold Tang",
+    "name": "Swee Siong Lee",
     "occupation": "Full-Stack Developer",
     "description": "I'm Software Engineer",
     "image": "profile.jpeg",
     "bio": "I’m a software engineer (full-stack web & mobile) and UI/UX designer. Worked as a senior lead full-stack developer at OpticEngine had been a rewarding experience. Moreover, I work on a few startups aimed at the Bangladesh, Russian, Chinese, American, and Dutch markets. Among the companies and entrepreneurs I have worked with are DP-Websolutions, Ganlax group, Hyvinvoivin, Happy-Dairy, Arrtal, FN Softwares & institute, and many more. Developing software for the world of intent is something I'm passionate about and I'm dedicated to making the world of intent easy and affordable for everyone.",
-    "email": "arnold.tang3@gmail.com",
-    "phone": "+1 (780) 506 8849",
+    "email": "sweesionglee2002@hotmail.com",
+    "phone": "+65 9137 5025",
     "quote": "The universe is a pretty big place. If it's just us.",
-    "address": "Edmonton, AB",
-    "website": "https://arnoldtang.vercel.app",
+    "address": "Blk 329 Bukit Batok Street 33, Singapore 650329",
+    "website": "https://sweesionglee.vercel.app",
     "resumedownload": "https://drive.google.com/file/d/1RIuFzXUKVOAWHsD7RVGIuLdem5NJ1Gpi/view?usp=sharing",
     "social": [
         {
             "name": "linkedin",
-            "url": "https://linkedin.com/in/arnoldtang3",
+            "url": "https://linkedin.com/in/swee-siong-lee-98217",
             "iconName": "logo-linkedin"
         },
         {
@@ -312,7 +312,7 @@ export const partners = [
 
 export const testimonials = [
     {
-        "text": "We are very content and happy wan all the work Arnold Tang has done for us! Not only did he just what he had to do, comes up with suggestions and improvements of his owns and points out weaknesses which he in perfect communication is able to improve. Recommended! ",
+        "text": "We are very content and happy wan all the work Lee has done for us! Not only did he just what he had to do, comes up with suggestions and improvements of his owns and points out weaknesses which he in perfect communication is able to improve. Recommended! ",
         "user": "Jason Sindram",
         "company": "CTO at DP-Websolutions"
     },
