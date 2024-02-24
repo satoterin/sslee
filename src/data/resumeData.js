@@ -1,19 +1,19 @@
 export const main = {
-    "name": "Swee Siong Lee",
+    "name": "John Chan",
     "occupation": "Full-Stack Developer",
     "description": "I'm Software Engineer",
     "image": "profile.jpeg",
     "bio": "I’m a software engineer (full-stack web & mobile) and UI/UX designer. Worked as a senior lead full-stack developer at OpticEngine had been a rewarding experience. Moreover, I work on a few startups aimed at the Bangladesh, Russian, Chinese, American, and Dutch markets. Among the companies and entrepreneurs I have worked with are DP-Websolutions, Ganlax group, Hyvinvoivin, Happy-Dairy, Arrtal, FN Softwares & institute, and many more. Developing software for the world of intent is something I'm passionate about and I'm dedicated to making the world of intent easy and affordable for everyone.",
-    "email": "sweesionglee2002@hotmail.com",
-    "phone": "+65 9137 5025",
+    "email": "johnchan5025@gmail.com",
+    "phone": "0141 854 3569",
     "quote": "The universe is a pretty big place. If it's just us.",
     "address": "Blk 329 Bukit Batok Street 33, Singapore 650329",
     "website": "https://sslee.vercel.app",
-    "resumedownload": "https://drive.google.com/file/d/1tnijTNt8BFMO2jFzOx4kLUWYyamhkYRi/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1k7xefIl9H74Zd0tkPmBiXFBI7FFmXSda/view?usp=sharing",
     "social": [
         {
             "name": "linkedin",
-            "url": "https://linkedin.com/in/swee-siong-lee-98217",
+            "url": "https://linkedin.com/in/john-chan-98217",
             "iconName": "logo-linkedin"
         },
         {
@@ -63,7 +63,7 @@ export const works = [
             "description": "• Developed Pegasus game token IDO project of Pegasus Metaverse MMORPG <br />• Creation of HowToTube website(VideoPlatform) using React, Python, Flask, PostgreSQL, SQLAlchemy and RESTful design as full-stack web application <br />• Working with event-driven architectures, Redis, Golang, PostgreSQL and cloud services, like GCP or AWS <br />•  Working with Hardhat and Geth or other development frameworks and local environments <br />• Exploring Cosmos SDK projects and other projects that will be built on the cosmos <br />• Full-stack programming with focus on using strongly typed languages (Rust, Golang, Typescript) <br />• Crypto Coins Exchange Development, ICO & IDO Development with Created Token"
         },
         {
-            "company": "Tintash",
+            "company": "ConsiderIT",
             "title": "Web Full-Stack Developer & Blockchain Developer",
             "image": "img/behance.png",
             "years": "August 2020 - April 2021",
