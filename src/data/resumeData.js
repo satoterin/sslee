@@ -7,7 +7,7 @@ export const main = {
     "email": "johnchan5025@gmail.com",
     "phone": "0141 854 3569",
     "quote": "The universe is a pretty big place. If it's just us.",
-    "address": "Blk 329 Bukit Batok Street 33, Singapore 650329",
+    "address": "553 Dumbarton Road, Glasgow, G53 8PT",
     "website": "https://sslee.vercel.app",
     "resumedownload": "https://drive.google.com/file/d/1k7xefIl9H74Zd0tkPmBiXFBI7FFmXSda/view?usp=sharing",
     "social": [
@@ -46,7 +46,7 @@ export const main = {
 
 export const about = {
     "bio": "I am a software <br /><span class='text-primary'>engineer</span> who cares<br /> about the code and the people.",
-    "ido": "<p>WEB DEVELOPMENT</p><p>BLOCKCHAIN DEVELOPMENT</p><p>SMART CONTRACT DEVELOPMENT</p><p>FRONT-END DEVELOPMENT</p><p>BACK-END DEVELOPMENT</p><p>FULL-STACK DEVELOPMENT</p>",
+    "ido": "<p>Vue.js/React.js</p><p>Javascript/Typescript</p><p>Python/Rust/Go</p><p>Laravel/Django</p><p>EVM/Solana</p><p>NFTs/DeFi</p>",
     "years": 7,
     "image": "img/profile.jpeg",
     // "video": "https://www.youtube.com/watch?v=ghQd1PbzVaY",
