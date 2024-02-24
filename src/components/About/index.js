@@ -8,7 +8,7 @@ function About({ bio, ido, years, image, video, resumedownload }) {
                         <div className="container">
                             <div className="row align-items-center">
                                 <div className="col-md-6 pr-md-5 pr-lg-0">
-                                    <div className="mb-4 text-dark">My specialization</div>
+                                    <div className="mb-4 text-dark">My specialisation</div>
                                     <h2 dangerouslySetInnerHTML={{ __html: bio }}></h2>
                                     <div className="mt-5 pt-2"
                                         dangerouslySetInnerHTML={{ __html: ido }}

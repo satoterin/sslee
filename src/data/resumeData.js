@@ -83,14 +83,14 @@ export const works = [
             "title": "Web Developer",
             "image": "img/behance.png",
             "years": "October 2017 - February 2019",
-            "description": "• Created a Django (Python) web application for a company that works with insurance companies and radiologists. The work included updating Django admin pages and working with bulk imports of CSV data <br />• Deployed full-stack web applications to AWS EC2, and RDS <br />• Developed a web application foran IT support company that involved building Python back-end and JavaScript front-end. Also built charts to visually display information about client computers <br />• Utilize jQuery, AJAX and AngularJS to redesign the UI functionality of 5+ multithreaded apps running on mobiles, tablets, and other touchscreen devices <br />• Performed maintenance tasks on pre-existing sites using the Infinite WP dashboard, such as updating plugins, ensuring backups are running, and running security scans"
+            "description": "• Created a Django (Python) web application for a company that works with insurance companies and radiologists. The work included updating Django admin pages and working with bulk imports of CSV data <br />• Deployed full-stack web applications to AWS EC2, and RDS <br />• Developed a web application foran IT support company that involved building Python back-end and JavaScript front-end. Also built charts to visually display information about client computers <br />• Utilise jQuery, AJAX and AngularJS to redesign the UI functionality of 5+ multithreaded apps running on mobiles, tablets, and other touchscreen devices <br />• Performed maintenance tasks on pre-existing sites using the Infinite WP dashboard, such as updating plugins, ensuring backups are running, and running security scans"
         },
         {
             "company": "Vinova Pte. Ltd.",
             "title": "Intern Web Developer & Full-Stack Developer",
             "image": "img/behance.png",
             "years": "October 2015 - September 2017",
-            "description": "• Utilize jQuery, AJAX and AngularJS to redesign the UI functionality of 5+ multi-threaded apps running on mobiles, tablets, and other touchscreen devices <br />• Software development using ElectronJS+Node.js+Vue.js for a Marijuana Medicinal company <br />• Maintained complex technology infrastructure and collaborated with product team to implement new features and strategically plan for future products <br />• Worked as an adviser on decision-making processes • Conducted unit and load testing for high profile customer facing applications, which reduced system failure rate by 70% "
+            "description": "• Utilise jQuery, AJAX and AngularJS to redesign the UI functionality of 5+ multi-threaded apps running on mobiles, tablets, and other touchscreen devices <br />• Software development using ElectronJS+Node.js+Vue.js for a Marijuana Medicinal company <br />• Maintained complex technology infrastructure and collaborated with product team to implement new features and strategically plan for future products <br />• Worked as an adviser on decision-making processes • Conducted unit and load testing for high profile customer facing applications, which reduced system failure rate by 70% "
         }
     ]
 ]
@@ -132,7 +132,7 @@ export const projects = [
         "url": "https://zeppto.netlify.app"
     },
     {
-        "title": "Decentralized chat application",
+        "title": "Decentralised chat application",
         "category": "Blockchain",
         "image": "web3.png",
         "url": "https://meta-ks.vercel.app/"
