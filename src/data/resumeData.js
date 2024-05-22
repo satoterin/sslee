@@ -1,19 +1,19 @@
 export const main = {
-    "name": "John Chan",
+    "name": "Daniel H.",
     "occupation": "Full-Stack Developer",
-    "description": "I'm Software Engineer",
+    "description": "I'm Full-stack Engineer",
     "image": "profile.jpeg",
-    "bio": "I’m a software engineer (full-stack web & mobile) and UI/UX designer. Worked as a senior lead full-stack developer at OpticEngine had been a rewarding experience. Moreover, I work on a few startups aimed at the Bangladesh, Russian, Chinese, American, and Dutch markets. Among the companies and entrepreneurs I have worked with are DP-Websolutions, Ganlax group, Hyvinvoivin, Happy-Dairy, Arrtal, FN Softwares & institute, and many more. Developing software for the world of intent is something I'm passionate about and I'm dedicated to making the world of intent easy and affordable for everyone.",
-    "email": "johnchan5025@gmail.com",
-    "phone": "0141 854 3569",
+    "bio": "I’m a full-stack engineer (web & blockchain). Worked as a senior lead full-stack developer at OpticEngine had been a rewarding experience. Moreover, I work on a few startups aimed at the Bangladesh, Russian, Chinese, American, and Dutch markets. Among the companies and entrepreneurs I have worked with are DP-Websolutions, Ganlax group, Hyvinvoivin, Happy-Dairy, Arrtal, FN Softwares & institute, and many more. Developing software for the world of intent is something I'm passionate about and I'm dedicated to making the world of intent easy and affordable for everyone.",
+    "email": "danielhng9@gmail.com",
+    "phone": "07975 382621",
     "quote": "The universe is a pretty big place. If it's just us.",
-    "address": "553 Dumbarton Road, Glasgow, G53 8PT",
-    "website": "https://sslee.vercel.app",
-    "resumedownload": "https://drive.google.com/file/d/1k7xefIl9H74Zd0tkPmBiXFBI7FFmXSda/view?usp=sharing",
+    "address": "18 Fenton Fields, Rotherham, South Yorkshire, S61 3SU",
+    "website": "https://danielh.vercel.app",
+    "resumedownload": "https://drive.google.com/file/d/1p9d-7m6B61_6Z67s_sGzueMNSR3nKN38/view?usp=drive_link",
     "social": [
         {
             "name": "linkedin",
-            "url": "https://linkedin.com/in/john-chan-98217",
+            "url": "https://linkedin.com/in/daniel-h-32220b308",
             "iconName": "logo-linkedin"
         },
         {
@@ -50,7 +50,7 @@ export const about = {
     "years": 7,
     "image": "img/profile.jpeg",
     // "video": "https://www.youtube.com/watch?v=ghQd1PbzVaY",
-    "resumedownload": "https://drive.google.com/file/d/1tnijTNt8BFMO2jFzOx4kLUWYyamhkYRi/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1p9d-7m6B61_6Z67s_sGzueMNSR3nKN38/view?usp=drive_link",
 }
 
 export const works = [
@@ -70,7 +70,7 @@ export const works = [
             "description": "• NFT (Non-Fungible Token) Marketplace and Mint site Development <br />• Solidity smart contract development, management, processes, best practices, debugging and testing tools <br />• Designed and provided web solutions for a number of small businesses using Wordpress, Jamstack CMSs, social network/Web APIs, e-commerce pay modules <br />• Architected and led a development team building core apps and NLP based chatbot using React.js, Vue.js, GraphQL and Node.js <br />• Developed dynamic and interactive website that ensured high traffic, page views, and user experience, resulting in 40% increase in sales revenu"
         },
         {
-            "company": "Iglu",
+            "company": "BITS Technology Group",
             "title": "Lead Full-Stack Developer & Project Manager",
             "image": "img/behance.png",
             "years": "February 2019 - August 2020",
