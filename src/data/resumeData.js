@@ -1,5 +1,5 @@
 export const main = {
-    "name": "Zach H.",
+    "name": "Zach C.",
     "occupation": "Full-Stack Engineer",
     "description": "I'm Full-stack Engineer",
     "image": "profile.jpeg",
