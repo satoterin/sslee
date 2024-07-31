@@ -1,7 +1,7 @@
 export const main = {
     "name": "Zach C.",
     "occupation": "Full-Stack Engineer",
-    "description": "I'm Full-stack Engineer",
+    "description": "I'm a Full-stack Engineer",
     "image": "profile.jpeg",
     "bio": "I’m a full-stack engineer (web & blockchain). Worked as a senior lead full-stack developer at OpticEngine had been a rewarding experience. Moreover, I work on a few startups aimed at the Bangladesh, Russian, Chinese, American, and Dutch markets. Among the companies and entrepreneurs I have worked with are DP-Websolutions, Ganlax group, Hyvinvoivin, Happy-Dairy, Arrtal, FN Softwares & institute, and many more. Developing software for the world of intent is something I'm passionate about and I'm dedicated to making the world of intent easy and affordable for everyone.",
     "email": "zachcai6@gmail.com",
