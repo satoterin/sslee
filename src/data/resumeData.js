@@ -1,19 +1,19 @@
 export const main = {
-    "name": "Zach C.",
+    "name": "Jude K.",
     "occupation": "Full-Stack Engineer",
     "description": "I'm a Full-stack Engineer",
     "image": "profile.jpeg",
     "bio": "I’m a full-stack engineer (web & blockchain). Worked as a senior lead full-stack developer at OpticEngine had been a rewarding experience. Moreover, I work on a few startups aimed at the Bangladesh, Russian, Chinese, American, and Dutch markets. Among the companies and entrepreneurs I have worked with are DP-Websolutions, Ganlax group, Hyvinvoivin, Happy-Dairy, Arrtal, FN Softwares & institute, and many more. Developing software for the world of intent is something I'm passionate about and I'm dedicated to making the world of intent easy and affordable for everyone.",
-    "email": "zachcai6@gmail.com",
+    "email": "judekinsley911@gmail.com",
     "phone": "07975 382621",
     "quote": "The universe is a pretty big place. If it's just us.",
     "address": "18 Fenton Fields, Rotherham, South Yorkshire, S61 3SU",
-    "website": "https://zc.vercel.app",
-    "resumedownload": "https://drive.google.com/file/d/1TwtVdlYByDh3edXtk_sTciFwWyQGdE1c/view?usp=sharing",
+    "website": "https://jk.vercel.app",
+    "resumedownload": "https://drive.google.com/file/d/1zVyZhAvq3x8C1CaEFjAMWvGXKBo9zVnf/view?usp=sharing",
     "social": [
         {
             "name": "linkedin",
-            "url": "https://linkedin.com/in/zach-c-32220b308",
+            "url": "https://linkedin.com/in/jude-k-32220b308",
             "iconName": "logo-linkedin"
         },
         {
@@ -50,7 +50,7 @@ export const about = {
     "years": 7,
     "image": "img/profile.jpeg",
     // "video": "https://www.youtube.com/watch?v=ghQd1PbzVaY",
-    "resumedownload": "https://drive.google.com/file/d/1TwtVdlYByDh3edXtk_sTciFwWyQGdE1c/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1zVyZhAvq3x8C1CaEFjAMWvGXKBo9zVnf/view?usp=sharing",
 }
 
 export const works = [
